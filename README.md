@@ -1,6 +1,6 @@
 # Student Performance Prediction
 
-This project aimed to develop a system for predicting undergraduate students' performance in information technology studies to support admission decisions. The project consisted of two main parts: analysis and model development and web application interface development. The study found that the grade point average of secondary school, science, English language, and mathematics were the most related factors to the grade point average of the information technology curriculum. Five machine learning algorithms were studied.
+This project aimed to develop a system for predicting undergraduate students' performance in information technology studies to support admission decisions. The project consisted of two main parts: analysis and model development and web application interface development. Five machine learning algorithms were studied.
 
 ## Tech Stack
 - Analysis and Model Development:
