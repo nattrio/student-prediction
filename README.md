@@ -1,6 +1,22 @@
-# fasiapi-cd
+# Student Performance Prediction
 
-[Tutorial](https://towardsdatascience.com/deploy-fastapi-on-azure-with-github-actions-32c5ab248ce3)
+This project aimed to develop a system for predicting undergraduate students' performance in information technology studies to support admission decisions. The project consisted of two main parts: analysis and model development and web application interface development. The study found that the grade point average of secondary school, science, English language, and mathematics were the most related factors to the grade point average of the information technology curriculum. Five machine learning algorithms were studied.
+
+## Tech Stack
+- Analysis and Model Development:
+  - Python
+  - Scikit-learn
+- Web Application Interface Development:
+  - FastAPI
+  - MongoDB
+- Model Algorithms:
+  - K-Nearest Neighbor
+  - Decision Tree
+  - Random Forest
+  - Multi-Layer Perceptron
+  - Logistic Regression
+- Data Analysis:
+  - Pearson Correlation Analysis
 
 ## How to run with Docker
 
